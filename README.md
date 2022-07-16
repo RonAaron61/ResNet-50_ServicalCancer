@@ -1,5 +1,6 @@
 # ResNet-50_ServicalCancer
-Using **pre-trained ResNet 50** (using imagenet weighted) to classfied and identified Cervical Cancer
+
+##Using **pre-trained ResNet 50** (using imagenet weighted) to classfied and identified Cervical Cancer
 
 the dataset that used for this project is from Harlev Database (Martin Master Thesis 2003 (Denmark) (dataset, code and analysis))
 
@@ -10,4 +11,4 @@ In the code the dataset is downloaded and placed in Google Drive, for the easy a
 The code can be accesed in *SISCER_RESNET.ipynb*
 
 
->*The program is inspired by https://chroniclesofai.com/transfer-learning-with-keras-resnet-50/ *
+>The program is inspired by https://chroniclesofai.com/transfer-learning-with-keras-resnet-50/ 
